@@ -4,5 +4,5 @@ This document provides an overview of the datasets designed for the IER-DML proj
 ## Dataset Construction  
 Please refer to Section 5.1.4 (Experimental Settings) of the paper for a detailed step-by-step process.  
 ## Addition & Description  
-Due to the paper being unpublished and the project involving confidential content, we are currently only disclosing a portion of the IER-DML incremental dataset for official presentation. The complete dataset and its construction methods will be fully open to the public after the paper is published.
+Due to the paper being unpublished and the project involving confidential content, we are currently only disclosing the dataset required for the initial training, which is a portion of the IER-DML incremental dataset, for official presentation. The complete dataset and its construction methods will be fully open to the public after the paper is published.
 
